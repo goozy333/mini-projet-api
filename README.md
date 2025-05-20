@@ -26,9 +26,9 @@ Ce projet consiste à développer une mini API en **FastAPI**, déployée sur **
 
 ## 🧑‍🤝‍🧑 Équipe
 
-- **Antoine** – Structure du projet, Docker, gestion GCP
-- Membre 2 – Développement API FastAPI
-- Membre 3 – Intégration Vertex AI, README, doc finale
+- **Antoine JIANG** – Structure du projet, Docker, gestion GCP
+- **Roman LACAZE** – Développement API FastAPI
+- **Baptiste DECANTER** – Intégration Vertex AI, README, doc finale
 
 ## 🚀 Lancement local
 
